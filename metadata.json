@@ -1,0 +1,5 @@
+{
+  "name": "IMEL Gestão Pro - Sistema de Intranet",
+  "description": "Um sistema completo de gestão escolar para o Instituto Médio de Economia de Luanda (IMEL), digitalizando processos manuais com dashboards, gestão de alunos, notas e integração com IA Gemini.",
+  "requestFramePermissions": []
+}
